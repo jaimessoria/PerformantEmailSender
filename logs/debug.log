@@ -1,0 +1,79 @@
+2020-07-29 21:19:37,568 - __main__ - INFO - Running. Press CTRL-C to exit.
+2020-07-29 21:19:37,571 - __main__ - INFO - Reading CSV 
+2020-07-29 21:19:37,571 - __main__ - INFO - The number of email to be send:[100]
+2020-07-29 21:19:37,774 - __main__ - INFO - Fetcher: num_email: [100] email: [email_100@data.de]
+2020-07-29 21:19:37,980 - __main__ - INFO - Fetcher: num_email: [99] email: [email_99@data.de]
+2020-07-29 21:19:38,184 - __main__ - INFO - Fetcher: num_email: [98] email: [email_98@data.de]
+2020-07-29 21:19:38,280 - __main__ - INFO - Sender: email: [email_100@data.de] sent: [Y] 
+2020-07-29 21:19:38,389 - __main__ - INFO - Fetcher: num_email: [97] email: [email_97@data.de]
+2020-07-29 21:19:38,484 - __main__ - INFO - Sender: email: [email_99@data.de] sent: [Y] 
+2020-07-29 21:19:38,595 - __main__ - INFO - Fetcher: num_email: [96] email: [email_96@data.de]
+2020-07-29 21:19:38,690 - __main__ - INFO - Sender: email: [email_98@data.de] sent: [Y] 
+2020-07-29 21:19:38,797 - __main__ - INFO - Fetcher: num_email: [95] email: [email_95@data.de]
+2020-07-29 21:19:38,893 - __main__ - INFO - Sender: email: [email_97@data.de] sent: [Y] 
+2020-07-29 21:19:39,003 - __main__ - INFO - Fetcher: num_email: [94] email: [email_94@data.de]
+2020-07-29 21:19:39,100 - __main__ - INFO - Sender: email: [email_96@data.de] sent: [Y] 
+2020-07-29 21:19:39,206 - __main__ - INFO - Fetcher: num_email: [93] email: [email_93@data.de]
+2020-07-29 21:19:39,300 - __main__ - INFO - Sender: email: [email_95@data.de] sent: [Y] 
+2020-07-29 21:19:39,410 - __main__ - INFO - Fetcher: num_email: [92] email: [email_92@data.de]
+2020-07-29 21:19:39,508 - __main__ - INFO - Sender: email: [email_94@data.de] sent: [Y] 
+2020-07-29 21:19:39,613 - __main__ - INFO - Fetcher: num_email: [91] email: [email_91@data.de]
+2020-07-29 21:19:39,711 - __main__ - INFO - Sender: email: [email_93@data.de] sent: [Y] 
+2020-07-29 21:19:39,824 - __main__ - INFO - Fetcher: num_email: [90] email: [email_90@data.de]
+2020-07-29 21:19:39,912 - __main__ - INFO - Sender: email: [email_92@data.de] sent: [Y] 
+2020-07-29 21:19:40,027 - __main__ - INFO - Fetcher: num_email: [89] email: [email_89@data.de]
+2020-07-29 21:19:40,119 - __main__ - INFO - Sender: email: [email_91@data.de] sent: [Y] 
+2020-07-29 21:19:40,230 - __main__ - INFO - Fetcher: num_email: [88] email: [email_88@data.de]
+2020-07-29 21:19:40,330 - __main__ - INFO - Sender: email: [email_90@data.de] sent: [Y] 
+2020-07-29 21:19:40,433 - __main__ - INFO - Fetcher: num_email: [87] email: [email_87@data.de]
+2020-07-29 21:19:40,532 - __main__ - INFO - Sender: email: [email_89@data.de] sent: [Y] 
+2020-07-29 21:19:40,639 - __main__ - INFO - Fetcher: num_email: [86] email: [email_86@data.de]
+2020-07-29 21:19:40,736 - __main__ - INFO - Sender: email: [email_88@data.de] sent: [Y] 
+2020-07-29 21:19:40,841 - __main__ - INFO - Fetcher: num_email: [85] email: [email_85@data.de]
+2020-07-29 21:19:40,936 - __main__ - INFO - Sender: email: [email_87@data.de] sent: [Y] 
+2020-07-29 21:19:41,043 - __main__ - INFO - Fetcher: num_email: [84] email: [email_84@data.de]
+2020-07-29 21:19:41,144 - __main__ - INFO - Sender: email: [email_86@data.de] sent: [Y] 
+2020-07-29 21:19:41,249 - __main__ - INFO - Fetcher: num_email: [83] email: [email_83@data.de]
+2020-07-29 21:19:41,344 - __main__ - INFO - Sender: email: [email_85@data.de] sent: [Y] 
+2020-07-29 21:19:41,453 - __main__ - INFO - Fetcher: num_email: [82] email: [email_82@data.de]
+2020-07-29 21:19:41,546 - __main__ - INFO - Sender: email: [email_84@data.de] sent: [Y] 
+2020-07-29 21:19:41,656 - __main__ - INFO - Fetcher: num_email: [81] email: [email_81@data.de]
+2020-07-29 21:19:41,753 - __main__ - INFO - Sender: email: [email_83@data.de] sent: [Y] 
+2020-07-29 21:19:41,860 - __main__ - INFO - Fetcher: num_email: [80] email: [email_80@data.de]
+2020-07-29 21:19:41,954 - __main__ - INFO - Sender: email: [email_82@data.de] sent: [Y] 
+2020-07-29 21:19:42,065 - __main__ - INFO - Fetcher: num_email: [79] email: [email_79@data.de]
+2020-07-29 21:19:42,160 - __main__ - INFO - Sender: email: [email_81@data.de] sent: [Y] 
+2020-07-29 21:19:42,271 - __main__ - INFO - Fetcher: num_email: [78] email: [email_78@data.de]
+2020-07-29 21:19:42,364 - __main__ - INFO - Sender: email: [email_80@data.de] sent: [Y] 
+2020-07-29 21:19:42,477 - __main__ - INFO - Fetcher: num_email: [77] email: [email_77@data.de]
+2020-07-29 21:19:42,571 - __main__ - INFO - Sender: email: [email_79@data.de] sent: [Y] 
+2020-07-29 21:19:42,683 - __main__ - INFO - Fetcher: num_email: [76] email: [email_76@data.de]
+2020-07-29 21:19:42,774 - __main__ - INFO - Sender: email: [email_78@data.de] sent: [Y] 
+2020-07-29 21:19:42,885 - __main__ - INFO - Fetcher: num_email: [75] email: [email_75@data.de]
+2020-07-29 21:19:42,979 - __main__ - INFO - Sender: email: [email_77@data.de] sent: [Y] 
+2020-07-29 21:19:43,089 - __main__ - INFO - Fetcher: num_email: [74] email: [email_74@data.de]
+2020-07-29 21:19:43,188 - __main__ - INFO - Sender: email: [email_76@data.de] sent: [Y] 
+2020-07-29 21:19:43,294 - __main__ - INFO - Fetcher: num_email: [73] email: [email_73@data.de]
+2020-07-29 21:19:43,304 - __main__ - INFO - Received exit signal
+2020-07-29 21:19:43,312 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,315 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,316 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,318 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,319 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,319 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x107a9bac0>()]>>
+2020-07-29 21:19:43,320 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x107a9ba60>()]>>
+2020-07-29 21:19:43,320 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x107a9b760>()]>>
+2020-07-29 21:19:43,321 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,322 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-10' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,322 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-11' coro=<DbRoutines.email_fetcher() done, defined at PerformantEmailSender.py:57> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x107a9b7f0>()]>>

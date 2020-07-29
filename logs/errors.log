@@ -1,0 +1,22 @@
+2020-07-29 21:19:43,312 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,315 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,316 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,318 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,319 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,319 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x107a9bac0>()]>>
+2020-07-29 21:19:43,320 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x107a9ba60>()]>>
+2020-07-29 21:19:43,320 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x107a9b760>()]>>
+2020-07-29 21:19:43,321 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,322 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-10' coro=<EmailRoutines.email_sender() done, defined at PerformantEmailSender.py:32> wait_for=<Future cancelled>>
+2020-07-29 21:19:43,322 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-11' coro=<DbRoutines.email_fetcher() done, defined at PerformantEmailSender.py:57> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x107a9b7f0>()]>>
