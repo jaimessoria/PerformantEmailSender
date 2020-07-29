@@ -1,5 +1,7 @@
 # Run Application
 
+Software in python that sends out emails to recipients from a huge list (1 Mio entries) in a performant way.
+
 **Create Python virtual environment**
 
 pyenv global 3.7.4
